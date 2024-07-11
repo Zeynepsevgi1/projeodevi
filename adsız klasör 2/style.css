@@ -1,0 +1,52 @@
+.navbar{
+    background-color: rgb(44, 61, 80);
+
+}
+.nav-link{
+    color: #ffffff;
+    font-size: medium;
+}
+.avatar-container{
+background-color: rgb(27, 188, 155);
+
+}
+h1{
+    font-size: 43px;
+    color: #ffffff;
+    font-weight: 500;
+}
+.job-titles{
+    color: #ffffff;
+}
+h2{
+font-size: 48px ;
+
+}
+.portfolıo-img{
+         border-radius: 10px;
+         
+}
+.about-container{
+background-color: rgb(27, 188, 155);
+
+}
+h3{
+color: #ffffff;
+font-size: 45px;
+
+}
+    
+.about-div{
+    color: #ffffff;
+    font-size: 20px;
+}
+.btn-padding{
+    padding: 1rem 1.75rem !important;
+}
+.footer-container{
+    background-color: rgb(44, 61, 80);
+}
+h5{
+    font-size: 32px !important;
+}
+.link-color{ color: rgb(27, 188, 155);}
